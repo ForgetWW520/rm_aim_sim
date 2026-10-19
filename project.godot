@@ -1,0 +1,26 @@
+; Open with Godot 4.7.2 or newer compatible Godot 4.x.
+config_version=5
+
+[application]
+config/name="RoboMaster Aim Lab"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+window/size/viewport_width=1440
+window/size/viewport_height=900
+window/size/window_width_override=1440
+window/size/window_height_override=900
+window/size/min_width=1100
+window/size/min_height=740
+window/stretch/mode="canvas_items"
+
+[physics]
+common/physics_ticks_per_second=240
+common/max_physics_steps_per_frame=32
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.025, 0.04, 0.065, 1)

@@ -1,0 +1,37 @@
+{
+  "repository": "https://github.com/rm-controls/rm_description",
+  "revision": "a4b31828bf964e491d3ba5a731d12c1213562feb",
+  "license": "BSD-3-Clause",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha1": "f733c9516cee5c13df0f38cac86f976399490272",
+      "sha256": "4f88acab0afecc99a401f7a5a71a6feb2406a8c73542a447d2773008e4654689",
+      "url": "https://raw.githubusercontent.com/rm-controls/rm_description/a4b31828bf964e491d3ba5a731d12c1213562feb/LICENSE"
+    },
+    {
+      "path": "meshes/standard/base.stl",
+      "git_blob_sha1": "816c19ba73b1b7c09eefacce30c4fa35c6b9710a",
+      "sha256": "aa1344a4e588427931aee1b9e7af8d07f6d0ad2fdf74f79e0f8839ad07c5c18c",
+      "url": "https://raw.githubusercontent.com/rm-controls/rm_description/a4b31828bf964e491d3ba5a731d12c1213562feb/meshes/standard/base.stl",
+      "converted_file": "assets/models/infantry.glb",
+      "converted_sha256": "5a9e48a327853feb2a7561f190e3df8138c59ba0abe63b491dc08ae70afd8fdd"
+    },
+    {
+      "path": "meshes/hero/base.stl",
+      "git_blob_sha1": "7b6162b023e47db739b9243a23ad621c60f6c7ee",
+      "sha256": "4b8a9ea962ffb3e800bb9377f0b73c4972bcf0aa7b9c4f8464577149fb6e21a6",
+      "url": "https://raw.githubusercontent.com/rm-controls/rm_description/a4b31828bf964e491d3ba5a731d12c1213562feb/meshes/hero/base.stl",
+      "converted_file": "assets/models/hero.glb",
+      "converted_sha256": "de06f49c5becfb3c35428c4ba502f22baf52f355c1647ba2b4481f2472da96c1"
+    },
+    {
+      "path": "meshes/sentry/base_link.stl",
+      "git_blob_sha1": "fd37d9eb909ba23e64bceeb06f7d669e2d5b3697",
+      "sha256": "a52d9e5f0bf95994e5dc739460a1a7d481562492bcb5a76613d4db429a5a433b",
+      "url": "https://raw.githubusercontent.com/rm-controls/rm_description/a4b31828bf964e491d3ba5a731d12c1213562feb/meshes/sentry/base_link.stl",
+      "converted_file": "assets/models/sentry.glb",
+      "converted_sha256": "7ed0ec8f0ad7426aa7f974aefea1b4715b2de2b6d250a2f017bac11070cb64ea"
+    }
+  ]
+}

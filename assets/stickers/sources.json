@@ -1,0 +1,94 @@
+{
+  "repository": "https://github.com/tff345/label-robomaster",
+  "revision": "b517820cc8591c056098b3ac808338b084b6eabd",
+  "license": "MIT",
+  "license_file": "assets/third_party/label_robomaster/LICENSE",
+  "files": [
+    {
+      "path": "pic/sb.png",
+      "local_file": "assets/stickers/sentry.png",
+      "url": "https://raw.githubusercontent.com/tff345/label-robomaster/b517820cc8591c056098b3ac808338b084b6eabd/pic/sb.png",
+      "sha256": "8520725b4f385da62ad1e7ab0099c7cd7acd1df82ae95da315b6ac54795204d4",
+      "render_region_xywh": [
+        110,
+        85,
+        400,
+        375
+      ],
+      "panel_background_rgb": [
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "path": "pic/3.png",
+      "local_file": "assets/stickers/infantry_3.png",
+      "url": "https://raw.githubusercontent.com/tff345/label-robomaster/b517820cc8591c056098b3ac808338b084b6eabd/pic/3.png",
+      "sha256": "a11fedcc1dcadf3ba6ce5e14f3219ec98ac91b80e1d8a4f2525bacdc80586005",
+      "render_region_xywh": [
+        110,
+        30,
+        330,
+        440
+      ],
+      "panel_background_rgb": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "path": "pic/4.png",
+      "local_file": "assets/stickers/infantry_4.png",
+      "url": "https://raw.githubusercontent.com/tff345/label-robomaster/b517820cc8591c056098b3ac808338b084b6eabd/pic/4.png",
+      "sha256": "f76d21f40f5cc3387641bbbc5fe986dd9d665605942c817009dd53d0c1fae05b",
+      "render_region_xywh": [
+        110,
+        30,
+        335,
+        445
+      ],
+      "panel_background_rgb": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "path": "pic/5.png",
+      "local_file": "assets/stickers/infantry_5.png",
+      "url": "https://raw.githubusercontent.com/tff345/label-robomaster/b517820cc8591c056098b3ac808338b084b6eabd/pic/5.png",
+      "sha256": "55a1d1e5bfdb57caf3f0a1a904d02ab7ae4fffc3c28b61b35d94a6186616f9af",
+      "render_region_xywh": [
+        110,
+        30,
+        330,
+        445
+      ],
+      "panel_background_rgb": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "path": "pic/B1.png",
+      "local_file": "assets/stickers/hero.png",
+      "url": "https://raw.githubusercontent.com/tff345/label-robomaster/b517820cc8591c056098b3ac808338b084b6eabd/pic/B1.png",
+      "sha256": "a2d316f7ed5f6ba85bd553303a62e806e313229f08d73fa8c55ec0a415a8d053",
+      "render_region_xywh": [
+        220,
+        45,
+        360,
+        370
+      ],
+      "panel_background_rgb": [
+        10,
+        10,
+        10
+      ]
+    }
+  ],
+  "official_reference": "RoboMaster 2026 Robot Specification Manual V1.2.0, printed page 104, appendix figure 5"
+}

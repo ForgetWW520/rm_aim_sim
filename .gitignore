@@ -1,0 +1,8 @@
+.godot/
+exports/
+captures/
+logs/
+__pycache__/
+*.pyc
+*.tmp
+.tools/
